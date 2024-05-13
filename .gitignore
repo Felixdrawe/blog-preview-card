@@ -18,4 +18,5 @@
 # Other ignore patterns
 *.jpg
 style-guide.md
-
+.ttf
+.txt
